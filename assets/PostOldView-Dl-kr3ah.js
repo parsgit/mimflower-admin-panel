@@ -1,0 +1,1 @@
+import{g as t,c as o,o as s}from"./index-LbeQ0TGf.js";const l={__name:"PostOldView",setup(a){const e=t();return window.location.href=`/post/${e.params.title}`,(r,c)=>(s(),o("div",null," ... "))}};export{l as default};
