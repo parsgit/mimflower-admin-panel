@@ -1,1 +1,0 @@
-import{m as t,c as o,o as s}from"./index-B_dLCW4e.js";const l={__name:"PostOldView",setup(a){const e=t();return window.location.href=`/post/${e.params.title}`,(r,c)=>(s(),o("div",null," ... "))}};export{l as default};
